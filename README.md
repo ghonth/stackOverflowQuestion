@@ -1,4 +1,4 @@
-# stackOverflowQuestion
+# Interactive map displaying nodes and edges
 Place to host a file for my stackoverflow question
 
 The data in the associated .csv file is a sanitized version of the data I'm working with. It consists of 5300 nodes in 1300 groups, and it has over 880,000 edges.
