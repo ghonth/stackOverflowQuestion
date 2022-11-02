@@ -8,6 +8,9 @@ The main thing I want my python code to do is, when I hover over a node, I want 
 With a lot of help (I'm not really a programmer), I've accomplished that, plus:
 
 -You can select a node and all of the edges will remain visible, plus all nodes that are not in the same group change color to be less visible
+
 -There's a MiniMap that shows you where you are on the graph
+
 -There's a DataTable that lists all of the nodes and their different groups
+
   -The DataTable and the graph are interactive: if you click a line on the DataTable, it's equivalent to clicking that node on the graph, and vice versa
